@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a cross-platform automation system<br>👯 I’m looking to collaborate on a project Jarvis<br>🤝 I’m looking for help with Web-Development<br>🌱 I’m currently learning AI, ML, Cyber-Security<br>💬 Ask me about Python<br>⚡ Fun fact; I am practicing Python since 9 years
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onkar_joshi21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onkar-joshi-35a391289/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BadCurrentOJ8089) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20858512) 
 [![](https://visitcount.itsvg.in/api?id=Onkarj09&icon=8&color=1)](https://visitcount.itsvg.in)
@@ -21,7 +21,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Onkarj09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
